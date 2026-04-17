@@ -69,10 +69,10 @@ Who is it for? What was the hardest part to build?]
 
 ```
 const [yourName] = {
-  pronouns:    "[he/him | she/her | they/them]",
-  university:  "[University Name]",
-  loves:       ["coding", "[hobby]", "[hobby]"],
-  currentMood: "[your current mood or status]",
+  pronouns:    "[he her, har har]",
+  university:  "[Angeles University Foundation]",
+  loves:       ["coding", "[Gooning]", "[hobby]"],
+  currentMood: "[bood]",
   askMeAbout:  ["[topic]", "[topic]", "[topic]"]
 }
 ```
