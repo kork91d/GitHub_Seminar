@@ -10,12 +10,12 @@
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&text=[Your+Name]&fontColor=fff&fontSize=48)
 
 <!-- INTRO — Write this like you're talking to a new friend. -->
-### Hey there! I'm [Your Name] 👋
+### Hey there! I'm [Felice] 👋
 
 > [A short quote or motto that represents you — or just delete this line]
 
-I'm a **[year]-year Computer Science student** at [University].
-I love turning ideas into code, especially when it involves [your interest].
+I'm a **[3rd]-year Computer Science student** at [Angeles University Foundation].
+I love turning ideas into code, especially when it involves [gooning].
 
 ---
 
@@ -24,8 +24,8 @@ I love turning ideas into code, especially when it involves [your interest].
      This shows visitors you're actively growing.             -->
 ## What I'm up to
 
-- 🔨 Building → [current project or idea]
-- 📖 Learning → [language, framework, or concept]
+- 🔨 Building → [Goon Labs]
+- 📖 Learning → [Drawing]
 - 🤝 Open to → [internships / collaborations / open source]
 - 🎯 Goal this year → [your 2025 goal, e.g. land my first internship]
 
